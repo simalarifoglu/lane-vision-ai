@@ -1,0 +1,12 @@
+output/
+uploads/
+
+__pycache__/
+*.pyc
+
+.vscode/
+
+*.mp4
+*.avi
+*.mov
+*.mkv
